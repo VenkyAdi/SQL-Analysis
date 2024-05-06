@@ -84,7 +84,7 @@ Super Store Analysis Based on Business Impacts:
 
 14. Find the top 10 products with minimum profit.
 
-[A-14](https://github.com/VenkyAdi/SQL-Analysis/assets/38469568/1cee3cad-c093-4fcb-a3d8-4cbb4102b495)
+![A-14](https://github.com/VenkyAdi/SQL-Analysis/assets/38469568/8d2a5d2f-d811-47ae-9362-3255d13858ee)
 
 ![O-14](https://github.com/VenkyAdi/SQL-Analysis/assets/38469568/4cdf46cc-7665-417f-9267-f95e5f0d53b6)
 
