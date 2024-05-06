@@ -18,7 +18,7 @@ Your feedback is valuable! If you have any suggestions, questions, or ideas for 
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/venkat-aditya-394085148)
+- LinkedIn: www.linkedin.com/in/venkat-aditya-394085148
 - Email: venkyadi04@gmail.com
 
 Let's connect and discuss how we can leverage data to drive impactful business decisions!
